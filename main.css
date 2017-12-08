@@ -1,0 +1,43 @@
+body{
+	background: gray;
+}
+
+* {
+  margin: 0; 
+  padding: 0; 
+}
+
+
+h1{
+	text-align: center;
+	font-family: 'Patrick Hand SC', normal;
+}
+
+table { 
+  border-collapse: collapse; 
+  border-spacing: 0;
+}
+
+
+#board { 
+  padding: 0px; 
+  margin: 0 auto; 
+  margin-top: 25px; 
+
+}
+
+#board tr td { 
+  width: 150px; 
+  height:150px; 
+  border: 3px solid #1c1c1c; 
+  font-family: Helvetica;  
+  font-size: 100px; 
+  text-align: center; 
+
+}
+
+button{
+
+
+}
+ 
